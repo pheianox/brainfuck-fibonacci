@@ -1,4 +1,4 @@
-# brain-fuck-fibonacci
+# brainfuck-fibonacci
 
 This program prints out the members of [the Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number). 
 
