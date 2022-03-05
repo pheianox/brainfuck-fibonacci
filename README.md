@@ -4,5 +4,5 @@ This program prints out the members of [The Fibonacci Sequence](https://en.wikip
 
 It's been coded in [The Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) programming language.
 
-You can run this program in [BFI99](https://github.com/pheianox/bfi99) (intrepeter)
+You can run this program using [BFI99](https://github.com/pheianox/bfi99) (intrepeter)
 
